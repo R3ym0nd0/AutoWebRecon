@@ -22,7 +22,7 @@ A tool written in **Bash script** for automating website reconnaissance using bu
 
 ## 📷 Screenshot
 
-
+![AutoWebRecon](https://github.com/user-attachments/assets/51c658e0-c18f-4dc2-aab8-58d6924d8fe9)
 
 ---
 
