@@ -20,6 +20,16 @@ A tool written in **Bash script** for automating website reconnaissance using bu
 
 ---
 
+## 📜 Previous Versions
+
+Looking for older versions of AutoWebRecon before v1.0.0?
+
+🔗 [Click here to browse the old versions inside the Bash-Resources Repo](https://github.com/R3ym0nd0/Bash-Resources/tree/main/AutoWebRecon)
+
+> These were stored in a Bash-Resources repository before this tool got its own dedicated repo.
+
+---
+
 ## 📷 Screenshot
 
 ![AutoWebRecon](https://github.com/user-attachments/assets/51c658e0-c18f-4dc2-aab8-58d6924d8fe9)
